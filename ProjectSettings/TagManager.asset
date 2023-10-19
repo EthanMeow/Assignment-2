@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -38,6 +40,36 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background farther 5
+    uniqueID: 996674781
+    locked: 0
+  - name: background farther 4
+    uniqueID: 2280046133
+    locked: 0
+  - name: background farther 3
+    uniqueID: 3707909099
+    locked: 0
+  - name: background farther 2
+    uniqueID: 738602685
+    locked: 0
+  - name: background farther
+    uniqueID: 348128371
+    locked: 0
+  - name: background 4
+    uniqueID: 1831073855
+    locked: 0
+  - name: background 3
+    uniqueID: 2314370793
+    locked: 0
+  - name: background 2
+    uniqueID: 1806832769
+    locked: 0
+  - name: background
+    uniqueID: 696018623
+    locked: 0
+  - name: terraib
+    uniqueID: 2745937511
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

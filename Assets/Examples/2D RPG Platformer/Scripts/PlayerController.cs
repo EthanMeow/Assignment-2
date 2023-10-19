@@ -94,7 +94,13 @@ namespace Platformer
             {
                 gameManager.coinsCounter += 1;
                 Destroy(other.gameObject);
+                Debug.Log("Player has collected a coin!");
             }
         }
+
+       
+
+       
+
     }
 }
