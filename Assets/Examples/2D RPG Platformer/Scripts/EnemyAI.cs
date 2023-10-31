@@ -27,12 +27,12 @@ namespace Platformer
         {
             if(!triggerCollider.IsTouchingLayers(ground) || triggerCollider.IsTouchingLayers(wall))
             {
-              //  Flip();
+                Flip();
             }
 
             if (rigidbody.velocity.x > 0)
             {
-               //  Flip();
+                Flip();
 
             }
         }

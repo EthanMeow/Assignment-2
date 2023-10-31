@@ -55,8 +55,11 @@ TagManager:
   - name: background farther
     uniqueID: 348128371
     locked: 0
-  - name: background 4
+  - name: background 5
     uniqueID: 1831073855
+    locked: 0
+  - name: background 4
+    uniqueID: 3525249363
     locked: 0
   - name: background 3
     uniqueID: 2314370793
